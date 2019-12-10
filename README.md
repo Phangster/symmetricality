@@ -1,12 +1,8 @@
-# symmetricality
+#   Symmetricality
 HASS project
 
-### Install
+## Run the code
 
 `npm install`
 
-### Running the code
-
-1. `cd DoublePendulum `
-
-2. `npm start`
+`npm start`
