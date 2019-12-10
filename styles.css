@@ -21,7 +21,9 @@ p{
     margin-top: 50px;
     margin-bottom: 50px;
     width: 100%;
-    text-align: center
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 30px;
 }
 
 .sectionOne {
